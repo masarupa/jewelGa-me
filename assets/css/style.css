@@ -1,0 +1,73 @@
+
+
+h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
+h2 { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+
+body {
+    background-image: url("watercolor_galaxy_backgrung.jpeg")
+ }
+
+
+
+#blue {
+    color:white;
+    background-color:blue;
+    border-color: blue;
+
+}
+#green {
+    color:white;
+    background-color:green;
+    border-color: green;
+}
+
+
+#turquoise {
+    color:white;
+    background-color:turquoise;
+    border-color:turquoise;
+}
+#yellow{
+    color:black;
+    background-color:yellow;
+    border-color:yellow;
+
+    
+
+/*
+#red {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d9534f;
+}
+#blue {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+}
+#yellow {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #f0ad4e;
+}
+#green {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+/*
