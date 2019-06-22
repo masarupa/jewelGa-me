@@ -1,17 +1,19 @@
 
 
 h1 {
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 40px;
+    color: blanchedalmond;
+    font-family: fantasy;
+    font-size: 45px;
 
 }
 h2 { 
+    color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 p {
+    color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
@@ -19,10 +21,14 @@ p {
 
 
 body {
-    background-image: url("watercolor_galaxy_backgrung.jpeg")
- }
+    background-image: url("background2.jpg");
+    background-size: 100%;
+}
 
 
+h3 class {
+    color:blanchedalmond;
+}
 
 #blue {
     color:white;
@@ -46,28 +52,7 @@ body {
     color:black;
     background-color:yellow;
     border-color:yellow;
+}
 
     
 
-/*
-#red {
-    color: #fff;
-    background-color: #d9534f;
-    border-color: #d9534f;
-}
-#blue {
-    color: #fff;
-    background-color: #5bc0de;
-    border-color: #5bc0de;
-}
-#yellow {
-    color: #fff;
-    background-color: #f0ad4e;
-    border-color: #f0ad4e;
-}
-#green {
-    color: #fff;
-    background-color: #5cb85c;
-    border-color: #5cb85c;
-}
-/*
